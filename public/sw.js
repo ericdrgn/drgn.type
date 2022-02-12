@@ -17,7 +17,7 @@ self.addEventListener('fetch', (event) => {
             })
           } else if (
             event.request.url.includes('theme') &&
-            (event.request.url.includes('coffeetyper.com') ||
+            (event.request.url.includes('drgn.app') ||
               event.request.url.includes('localhost:3000')) // for dev purposes
           ) {
 						client.postMessage({
