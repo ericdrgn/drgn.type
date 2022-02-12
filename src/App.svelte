@@ -56,7 +56,7 @@
     {#if !$settings.opened}
       <div
         transition:fade={{ duration: 400 }}
-        class="text-xl p-5 fixed font-bold dark"
+        class="text-xl p-5 fixed font-bold coffeetyper"
       >
         dragon type
       </div>
