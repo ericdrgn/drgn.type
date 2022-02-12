@@ -58,7 +58,7 @@
         transition:fade={{ duration: 400 }}
         class="text-xl p-5 fixed font-bold coffeetyper"
       >
-        Coffeetyper
+        dragon type
       </div>
 
       {#if !$runState.running}
