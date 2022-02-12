@@ -1,9 +1,9 @@
 {
-	"name": "Coffeetyper",
+	"name": "dragon type",
 	"start_url": "./",
 	"icons": [
 		{
-			"src": "./static/icon.svg",
+			"src": "./static/icon.png",
 			"purpose": "maskable any",
 			"sizes": "any"
 		}
